@@ -2,7 +2,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>Celke</title>
+        <title>Everton Vitor</title>
     </head>
     <body>
         <h1>Cadastrar usuário</h1>
